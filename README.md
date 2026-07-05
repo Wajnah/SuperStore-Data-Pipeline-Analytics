@@ -30,16 +30,16 @@ Focuses on financial health, margins, and performance distribution across sub-ca
 - Includes a **Scatter Chart** for product profitability analysis (a clean, non-cluttered alternative to Treemaps).
 - High-level KPI cards with month-over-month (MoM) trends.
 
-*Insert your Revenue Dashboard screenshot below:*
-![Executive Insights Dashboard](1-revenue-screenshot.png)
+
+
 
 ### 2. Operational & Risk Analysis (Returns & Logistics)
 Focuses on operational efficiency, supply chain bottlenecks, and root cause analysis for product returns.
 - Features an advanced **Decomposition Tree** allowing users to drill down into the root causes of returns by shipping mode and category.
 - Features a **Line Chart** tracking the return rate by month to monitor operational stability over time.
 
-*Insert your Logistics Dashboard screenshot below:*
-![Operational Analysis Dashboard](2-logistics-screenshot.png)
+
+
 
 ---
 
