@@ -15,7 +15,7 @@ An end-to-end data analytics project that demonstrates the entire data lifecycle
 ## Tech Stack & Tools
 
 - **Languages:** Python, SQL
-- **Libraries:** Pandas, NumPy
+- **Libraries:** Pandas, sqlite3و openpyxlو xlrd
 - **Database:** Local SQL Server / PostgreSQL
 - **BI Tool:** Power BI Desktop
 
